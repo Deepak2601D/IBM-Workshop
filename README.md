@@ -1,1 +1,8 @@
-AI Based Crop Health Monitoring and Advisory System.<img width="2935" height="263" alt="image" src="https://github.com/user-attachments/assets/e6deaf97-85bc-4a57-bf9a-7a31e52b5b6c" />
+AI Based Crop Health Monitoring and Advisory System. 
+
+
+Goal: Real-time crop health monitoring and precision advisory.
+
+Core Tech: Powered by IBM Granite via Langflow Agentic AI.
+
+Innovation: Combines visual diagnosis with climate-aware reasoning
